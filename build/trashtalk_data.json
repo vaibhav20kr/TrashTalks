@@ -1,0 +1,183 @@
+{
+    "bins": [
+        {
+            "capacityLiters": 240,
+            "fillLevel": 85.5,
+            "id": "BIN-101",
+            "lastEmptiedHoursAgo": 48,
+            "location": "Central Park - North",
+            "riskFactor": 15,
+            "status": "Critical",
+            "type": "Organic"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 42,
+            "id": "BIN-102",
+            "lastEmptiedHoursAgo": 24,
+            "location": "Central Park - South",
+            "riskFactor": 10,
+            "status": "Active",
+            "type": "Plastic"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 92,
+            "id": "BIN-103",
+            "lastEmptiedHoursAgo": 72,
+            "location": "Main St Shopping Mall",
+            "riskFactor": 25,
+            "status": "Critical",
+            "type": "Paper"
+        },
+        {
+            "capacityLiters": 120,
+            "fillLevel": 65,
+            "id": "BIN-104",
+            "lastEmptiedHoursAgo": 96,
+            "location": "Tech Park Complex",
+            "riskFactor": 60,
+            "status": "Active",
+            "type": "E-waste"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 30,
+            "id": "BIN-105",
+            "lastEmptiedHoursAgo": 12,
+            "location": "Metro Station West",
+            "riskFactor": 5,
+            "status": "Active",
+            "type": "Glass"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 88,
+            "id": "BIN-106",
+            "lastEmptiedHoursAgo": 18,
+            "location": "City General Hospital",
+            "riskFactor": 75,
+            "status": "Critical",
+            "type": "General"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 74,
+            "id": "BIN-107",
+            "lastEmptiedHoursAgo": 36,
+            "location": "University Campus Quad",
+            "riskFactor": 20,
+            "status": "Active",
+            "type": "Organic"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 95,
+            "id": "BIN-108",
+            "lastEmptiedHoursAgo": 60,
+            "location": "Downtown Market Square",
+            "riskFactor": 35,
+            "status": "Critical",
+            "type": "Plastic"
+        },
+        {
+            "capacityLiters": 180,
+            "fillLevel": 25,
+            "id": "BIN-109",
+            "lastEmptiedHoursAgo": 10,
+            "location": "Harbor View Promenade",
+            "riskFactor": 0,
+            "status": "Active",
+            "type": "Metal"
+        },
+        {
+            "capacityLiters": 480,
+            "fillLevel": 55,
+            "id": "BIN-110",
+            "lastEmptiedHoursAgo": 40,
+            "location": "Industrial Park East",
+            "riskFactor": 30,
+            "status": "Active",
+            "type": "General"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 79,
+            "id": "BIN-111",
+            "lastEmptiedHoursAgo": 50,
+            "location": "Sports Arena Gate A",
+            "riskFactor": 10,
+            "status": "Active",
+            "type": "Paper"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 62,
+            "id": "BIN-112",
+            "lastEmptiedHoursAgo": 30,
+            "location": "Residential Sector 4",
+            "riskFactor": 15,
+            "status": "Active",
+            "type": "Organic"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 91,
+            "id": "BIN-113",
+            "lastEmptiedHoursAgo": 66,
+            "location": "Railway Central Terminal",
+            "riskFactor": 40,
+            "status": "Critical",
+            "type": "Plastic"
+        },
+        {
+            "capacityLiters": 120,
+            "fillLevel": 18,
+            "id": "BIN-114",
+            "lastEmptiedHoursAgo": 8,
+            "location": "Community Library",
+            "riskFactor": 0,
+            "status": "Active",
+            "type": "Paper"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 84,
+            "id": "BIN-115",
+            "lastEmptiedHoursAgo": 52,
+            "location": "Riverfront Food Court",
+            "riskFactor": 45,
+            "status": "Critical",
+            "type": "Organic"
+        }
+    ],
+    "history": [
+        {
+            "amountCollectedKg": 180,
+            "binId": "BIN-101",
+            "collectorName": "John Doe",
+            "recordId": "REC-001",
+            "status": "Completed",
+            "timestamp": "2026-11-01 10:00",
+            "wasteType": "Organic"
+        },
+        {
+            "amountCollectedKg": 290,
+            "binId": "BIN-103",
+            "collectorName": "Alice Smith",
+            "recordId": "REC-002",
+            "status": "Completed",
+            "timestamp": "2026-11-02 14:30",
+            "wasteType": "Paper"
+        },
+        {
+            "amountCollectedKg": 210,
+            "binId": "BIN-108",
+            "collectorName": "Bob Johnson",
+            "recordId": "REC-003",
+            "status": "Completed",
+            "timestamp": "2026-11-03 09:15",
+            "wasteType": "Plastic"
+        }
+    ]
+}

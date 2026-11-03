@@ -1,0 +1,5 @@
+C:/Users/ASUS/OneDrive/Desktop/TrashTalks/build/CMakeFiles/TrashTalk.dir
+C:/Users/ASUS/OneDrive/Desktop/TrashTalks/build/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/OneDrive/Desktop/TrashTalks/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/OneDrive/Desktop/TrashTalks/build/CMakeFiles/TrashTalk_autogen_timestamp_deps.dir
+C:/Users/ASUS/OneDrive/Desktop/TrashTalks/build/CMakeFiles/TrashTalk_autogen.dir

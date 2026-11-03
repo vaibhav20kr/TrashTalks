@@ -1,0 +1,273 @@
+{
+    "bins": [
+        {
+            "capacityLiters": 240,
+            "fillLevel": 0,
+            "id": "BIN-101",
+            "lastEmptiedHoursAgo": 0,
+            "location": "Central Park - North",
+            "riskFactor": 15,
+            "status": "Active",
+            "type": "Organic"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 0,
+            "id": "BIN-102",
+            "lastEmptiedHoursAgo": 0,
+            "location": "Central Park - South",
+            "riskFactor": 10,
+            "status": "Active",
+            "type": "Plastic"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 0,
+            "id": "BIN-103",
+            "lastEmptiedHoursAgo": 0,
+            "location": "Main St Shopping Mall",
+            "riskFactor": 25,
+            "status": "Active",
+            "type": "Paper"
+        },
+        {
+            "capacityLiters": 120,
+            "fillLevel": 70,
+            "id": "BIN-104",
+            "lastEmptiedHoursAgo": 100,
+            "location": "Tech Park Complex",
+            "riskFactor": 60,
+            "status": "Active",
+            "type": "E-waste"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 35,
+            "id": "BIN-105",
+            "lastEmptiedHoursAgo": 16,
+            "location": "Metro Station West",
+            "riskFactor": 5,
+            "status": "Active",
+            "type": "Glass"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 0,
+            "id": "BIN-106",
+            "lastEmptiedHoursAgo": 0,
+            "location": "City General Hospital",
+            "riskFactor": 75,
+            "status": "Active",
+            "type": "General"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 0,
+            "id": "BIN-107",
+            "lastEmptiedHoursAgo": 0,
+            "location": "University Campus Quad",
+            "riskFactor": 20,
+            "status": "Active",
+            "type": "Organic"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 0,
+            "id": "BIN-108",
+            "lastEmptiedHoursAgo": 0,
+            "location": "Downtown Market Square",
+            "riskFactor": 35,
+            "status": "Active",
+            "type": "Plastic"
+        },
+        {
+            "capacityLiters": 180,
+            "fillLevel": 32,
+            "id": "BIN-109",
+            "lastEmptiedHoursAgo": 14,
+            "location": "Harbor View Promenade",
+            "riskFactor": 0,
+            "status": "Active",
+            "type": "Metal"
+        },
+        {
+            "capacityLiters": 480,
+            "fillLevel": 58,
+            "id": "BIN-110",
+            "lastEmptiedHoursAgo": 44,
+            "location": "Industrial Park East",
+            "riskFactor": 30,
+            "status": "Active",
+            "type": "General"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 0,
+            "id": "BIN-111",
+            "lastEmptiedHoursAgo": 0,
+            "location": "Sports Arena Gate A",
+            "riskFactor": 10,
+            "status": "Active",
+            "type": "Paper"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 65,
+            "id": "BIN-112",
+            "lastEmptiedHoursAgo": 34,
+            "location": "Residential Sector 4",
+            "riskFactor": 15,
+            "status": "Active",
+            "type": "Organic"
+        },
+        {
+            "capacityLiters": 360,
+            "fillLevel": 0,
+            "id": "BIN-113",
+            "lastEmptiedHoursAgo": 0,
+            "location": "Railway Central Terminal",
+            "riskFactor": 40,
+            "status": "Active",
+            "type": "Plastic"
+        },
+        {
+            "capacityLiters": 120,
+            "fillLevel": 30,
+            "id": "BIN-114",
+            "lastEmptiedHoursAgo": 12,
+            "location": "Community Library",
+            "riskFactor": 0,
+            "status": "Active",
+            "type": "Paper"
+        },
+        {
+            "capacityLiters": 240,
+            "fillLevel": 0,
+            "id": "BIN-115",
+            "lastEmptiedHoursAgo": 0,
+            "location": "Riverfront Food Court",
+            "riskFactor": 45,
+            "status": "Active",
+            "type": "Organic"
+        }
+    ],
+    "history": [
+        {
+            "amountCollectedKg": 62.63999999999999,
+            "binId": "BIN-102",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-15705",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Plastic"
+        },
+        {
+            "amountCollectedKg": 105.3,
+            "binId": "BIN-101",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-34464",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Organic"
+        },
+        {
+            "amountCollectedKg": 95.04,
+            "binId": "BIN-115",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-36962",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Organic"
+        },
+        {
+            "amountCollectedKg": 162,
+            "binId": "BIN-113",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-39358",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Plastic"
+        },
+        {
+            "amountCollectedKg": 150.66,
+            "binId": "BIN-111",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-21478",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Paper"
+        },
+        {
+            "amountCollectedKg": 108,
+            "binId": "BIN-108",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-25724",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Plastic"
+        },
+        {
+            "amountCollectedKg": 97.2,
+            "binId": "BIN-107",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-29169",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Organic"
+        },
+        {
+            "amountCollectedKg": 157.14,
+            "binId": "BIN-106",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-36500",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "General"
+        },
+        {
+            "amountCollectedKg": 158.76,
+            "binId": "BIN-103",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-16334",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Paper"
+        },
+        {
+            "amountCollectedKg": 105.3,
+            "binId": "BIN-101",
+            "collectorName": "Priority Fleet",
+            "recordId": "REC-28467",
+            "status": "Completed",
+            "timestamp": "2026-11-03 18:36",
+            "wasteType": "Organic"
+        },
+        {
+            "amountCollectedKg": 180,
+            "binId": "BIN-101",
+            "collectorName": "John Doe",
+            "recordId": "REC-001",
+            "status": "Completed",
+            "timestamp": "2026-11-01 10:00",
+            "wasteType": "Organic"
+        },
+        {
+            "amountCollectedKg": 290,
+            "binId": "BIN-103",
+            "collectorName": "Alice Smith",
+            "recordId": "REC-002",
+            "status": "Completed",
+            "timestamp": "2026-11-02 14:30",
+            "wasteType": "Paper"
+        },
+        {
+            "amountCollectedKg": 210,
+            "binId": "BIN-108",
+            "collectorName": "Bob Johnson",
+            "recordId": "REC-003",
+            "status": "Completed",
+            "timestamp": "2026-11-03 09:15",
+            "wasteType": "Plastic"
+        }
+    ]
+}
